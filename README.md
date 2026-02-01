@@ -1,3 +1,3 @@
 # 🎨 brand
 
-Shorebird brand assets exported from [Figma](https://www.figma.com/file/0NEYhstv5gmv6raNRwMFLj/Shorebird-Brand?type=design&t=JDJfarHBogL5xq1G-1).
+Shorebird brand assets exported from [Figma](https://www.figma.com/design/hjH9NrDSOcjDjNbfBuGPaE/Shorebird-Logos?m=auto&t=rWxtCsLbFnzprCw1-1).
